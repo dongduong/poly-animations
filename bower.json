@@ -1,0 +1,18 @@
+{
+  "name": "poly-animations",
+  "homepage": "https://github.com/dongduong/poly-animations",
+  "authors": [
+    "Dong Duong <dhdong1510@gmail.com>"
+  ],
+  "description": "",
+  "main": "index.html",
+  "moduleType": [],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
